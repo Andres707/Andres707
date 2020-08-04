@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   <h4 align="center">Siempre me puedes invitar un café-
 <a href="https://ko-fi.com/Andres707" target="_blank" aria-label="Follow @Andres707 on GitHub"><img align="center" src="https://media.giphy.com/media/jp92jmyPqZeHheeIN6/giphy.gif" alt="support" height="60" width="200" /></a>
 </h4>
-  <a href="https://github.com/Andres707" target="_blank" aria-label="Follow @Andres707 on GitHub"><img align="center" src="https://img.shields.io/badge/Andres707-Github-red" alt="support" height="60" width="200" /></a>
+ </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joevenner" alt="joevenner" /> </p>
+- <a href="https://github.com/Andres707" target="_blank" aria-label="Follow @Andres707 on GitHub"><img align="center" src="https://img.shields.io/badge/Andres707-Github-red" alt="support" height="60" width="200" /></a>
   
 </body>
