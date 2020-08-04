@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <body>
-  <h4 align="center">always up for coffee  - 
-<a href="https://ko-fi.com/andres07" target="_blank" aria-label="Follow @joevenner on GitHub"><img align="center" src="https://media.giphy.com/media/jp92jmyPqZeHheeIN6/giphy.gif" alt="support" height="60" width="200" /></a>
+  <h4 align="center">Siempre me puedes invitar un café-
+<a href="https://ko-fi.com/Andres707" target="_blank" aria-label="Follow @joevenner on GitHub"><img align="center" src="https://media.giphy.com/media/jp92jmyPqZeHheeIN6/giphy.gif" alt="support" height="60" width="200" /></a>
 </h4>
   
 </body>
