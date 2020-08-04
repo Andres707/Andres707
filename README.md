@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <body>
   <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Andres707&show_icons=true" alt="joevenner" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Andres707&show_icons=true" alt="Andres707" />
   <h4 align="center">Siempre me puedes invitar un café-
 <a href="https://ko-fi.com/Andres707" target="_blank" aria-label="Follow @Andres707 on GitHub"><img align="center" src="https://media.giphy.com/media/jp92jmyPqZeHheeIN6/giphy.gif" alt="support" height="60" width="200" /></a>
 </h4>
