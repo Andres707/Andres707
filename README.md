@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://ko-fi.com/Andres707" target="_blank" aria-label="Follow @Andres707 on GitHub"><img align="center" src="https://media.giphy.com/media/jp92jmyPqZeHheeIN6/giphy.gif" alt="support" height="60" width="200" /></a>
 </h4>
  </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=joevenner" alt="joevenner" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Andres707" alt="Andres707" /> </p>
 - <a href="https://github.com/Andres707" target="_blank" aria-label="Follow @Andres707 on GitHub"><img align="center" src="https://img.shields.io/badge/Andres707-Github-red" alt="support" height="60" width="200" /></a>
   
 </body>
