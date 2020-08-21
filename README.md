@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Andres707/Andres707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <body>
+  <h4>Hola a todos 👋</h4>
   <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Andres707&show_icons=true" alt="Andres707" />
   <h4 align="center">Siempre me puedes invitar un café-
